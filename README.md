@@ -31,6 +31,8 @@ This project features a comprehensive dashboard built using Power BI, powered by
 
 -Fraud Analytics KPIs – Pattern exploration and high-risk clusters.
 
+- <a href="https://github.com/SandyBGowda/Loan-Analytics-and-Risk-Intelligence-Dashboard/blob/main/Dashboard%20Video.mp4"> Click here to view Dashboard's complete working video </a>
+
 ## Homepage/ Main menu Dashboard
 <img width="1292" height="728" alt="Screenshot 2025-11-19 192622" src="https://github.com/user-attachments/assets/66a35daf-de16-43e1-92f8-27a772da4bc4" />
 
