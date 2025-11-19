@@ -1,6 +1,8 @@
 # Loan-Analytics-and-Risk-Intelligence-Dashboard
 This project features a comprehensive dashboard built using Power BI, powered by a detailed bank database. The dashboard includes interactive visualizations and detailed analytics that allow for in-depth exploration of key banking metrics.
 
+- This work was developed by me during my tenure at my previous company CORALMETRICS CONSULTING, where I was responsible for designing and implementing advanced business intelligence solutions for the banking team.
+
 ## What I Worked On:
 -Created multiple DAX measures for metrics like loan amount, risk segmentation, borrower categories, approval status, and more.
 
