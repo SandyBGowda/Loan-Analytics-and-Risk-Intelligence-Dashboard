@@ -3,7 +3,6 @@ This project features a comprehensive dashboard built using Power BI, powered by
 
 ## What I Worked On:
 -Created multiple DAX measures for metrics like loan amount, risk segmentation, borrower categories, approval status, and more.
-
 -Built calculated columns and new tables to support advanced filtering and drill-down analytics.
 
 -Designed a clean, menu-based KPI directory for smooth navigation across different dashboards.
