@@ -3,6 +3,7 @@ This project features a comprehensive dashboard built using Power BI, powered by
 
 ## What I Worked On:
 -Created multiple DAX measures for metrics like loan amount, risk segmentation, borrower categories, approval status, and more.
+
 -Built calculated columns and new tables to support advanced filtering and drill-down analytics.
 
 -Designed a clean, menu-based KPI directory for smooth navigation across different dashboards.
@@ -11,20 +12,31 @@ This project features a comprehensive dashboard built using Power BI, powered by
 
 -Handled data cleaning, transformation, and model optimization inside Power Query and the data model.
 
+## Dataset used:
+- <a href="https://github.com/SandyBGowda/Power-Bi-Dashboard/commit/fd26b84bcd385eb0af9f5fda2c2596168d596e97">Questions </a>
+
 ## Key Features
 -Utilizes advanced DAX formulas to create new measures and calculated fields.
+
 -Implements multiple calculated columns to drive dynamic insights and custom business logic.
+
 -Showcases best practices in dashboard layout, data modeling, and user interactivity for banking data analytics.
 
 # 📁 Dashboard Sections
 -Operational KPIs – Loan amount trends, approval patterns, customer segmentation.
+
 -Credit Risk & Borrower Quality KPIs – CIBIL score analysis, income-based risk profiling.
+
 -Portfolio Performance KPIs – Loan purpose insights, state-wise distribution, year-over-year changes.
+
 -Fraud Analytics KPIs – Pattern exploration and high-risk clusters.
+
 ## Homepage/ Main menu Dashboard
 <img width="1292" height="728" alt="Screenshot 2025-11-19 192622" src="https://github.com/user-attachments/assets/66a35daf-de16-43e1-92f8-27a772da4bc4" />
-
+## Fraud analytics KPI Directory
 <img width="1292" height="726" alt="Screenshot 2025-11-19 192855" src="https://github.com/user-attachments/assets/dbb74656-6bb5-4be5-b3d7-bbb04b339dbf" />
+## Portfolio performance KPI Directory
 <img width="1292" height="726" alt="Screenshot 2025-11-19 192827" src="https://github.com/user-attachments/assets/a50cc105-fa8e-4bf1-b5ea-24c53520345a" />
+## Credit risk and Borrower quality KPI Directory
 <img width="1291" height="726" alt="Screenshot 2025-11-19 192757" src="https://github.com/user-attachments/assets/cb6604fc-9d64-4ce8-b0d3-b14a72199dcc" />
 
