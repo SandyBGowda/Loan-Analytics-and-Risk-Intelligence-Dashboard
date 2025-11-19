@@ -13,7 +13,7 @@ This project features a comprehensive dashboard built using Power BI, powered by
 -Handled data cleaning, transformation, and model optimization inside Power Query and the data model.
 
 ## Dataset used:
-- <a href="https://github.com/SandyBGowda/Power-Bi-Dashboard/commit/fd26b84bcd385eb0af9f5fda2c2596168d596e97">Questions </a>
+- <a href="https://github.com/SandyBGowda/Loan-Analytics-and-Risk-Intelligence-Dashboard/blob/c170139f0b6116219152ca4283d226ea9155cdd0/bank%20data.xlsx">Questions </a>
 
 ## Key Features
 -Utilizes advanced DAX formulas to create new measures and calculated fields.
